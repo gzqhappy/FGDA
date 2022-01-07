@@ -17,7 +17,7 @@ train_FGDA_MDD.py
 ## Citation
 Please cite our paper if you use our code in your research:
 ```
-@article{yang2021exploring,
+@article{zhiqiang2021gradient,
   title={Gradient Distribution Alignment Certificates Better Adversarial Domain Adaptation},
   author={Gao, Zhiqiang and Zhang, Shufei and Huang, Kaizhu and Wang, Qiufeng and Zhong, Chaoliang},
   journal={Proceedings of the IEEE international conference on computer vision (ICCV)},
