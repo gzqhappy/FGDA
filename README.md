@@ -3,9 +3,18 @@ Code for paper "Gradient Distribution Alignment Certificates Better Adversarial 
 
 ## Requirements
 - Python 3.5
-- Pytorch 1.1
+- torch 1.1.0
+- torchvision 0.3.0
 
-# Citation
+## Training
+```
+train_FGDA_CDANE.py
+```
+```
+train_FGDA_MDD.py
+```
+
+## Citation
 Please cite our paper if you use our code in your research:
 ```
 @article{yang2021exploring,
